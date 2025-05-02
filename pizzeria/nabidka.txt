@@ -1,0 +1,13 @@
+1|Margherita|Rajčatový základ, mozzarella, bazalkové pesto, rajčata|139|
+2|Funghi|Rajčatový základ, mozzarella, žampiony, šunka|155|
+3|Dinosauří|Rajčatový základ, mozzarella, paprika, olivy, žampiony, cibule|139|
+4|Quattro Formaggi|Smetanový základ, mozzarella, cheddar, gorgonzola, hermelín|179|
+5|Quattro Formaggi 2|Rajčatový základ, mozzarella, cheddar, gorgonzola, hermelín|179|
+6|Americano|Rajčatový základ, mozzarella, kuřecí maso, anglická slanina, česnek, cibule, BBQ|200|
+7|Kukuřičné potěšení|Rajčatový základ, mozzarella, kukuřice, šunka|159|
+8|Peperone|Rajčatový základ, mozzarella, rajčata, šunka, paprika, cheddar|179|
+9|Hawai|Rajčatový základ, mozzarella, šunka, ananas|169|
+10|Mexicana|Rajčatový základ, mozzarella, paprikáš, jalapeños, červená cibule, fazole, kukuřice|189|
+11|Mafia|Rajčatový základ, pikantní salám Ventricina, paprikáš, jalapeños, olivy|179|
+12|Spinaci|Rajčatový základ, mozzarella, špenát, sýr Feta, červená cibule|199|
+13|Brynzová|Smetanový základ, mozzarella, brynza, anglická slanina, cibule|219|

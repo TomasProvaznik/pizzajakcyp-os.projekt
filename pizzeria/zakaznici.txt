@@ -1,0 +1,4 @@
+Tomáš|Provazník|606-985-100|tomasprovaznik7@seznam.cz|Peperone|1|ne|Doprava|30.12.2024|hotovost|
+Lukáš|Bryja|607-482-994|lukasbryja@gmail.com|Quattro Formaggi|1|ne|Doprava|01.06.2025|karta|
+Lukáš|Bryja|607-482-994|lukasbryja@gmail.com|Quattro Formaggi|1|ne|Doprava|01.06.2025|karta|
+Tomáš|Provazník|606-985-225|tomas.provaznik@spsehavirov.cz|Kukuřičné potěšení|2|ano|Doprava|30.12.2024|karta|
